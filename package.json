@@ -1,0 +1,15 @@
+{
+  "name": "react-trivia-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "davsan-0",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "react-trivia-server\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Dhttps://github.com/davsan-0/react-trivia-server"
+  },
+  "description": ""
+}
